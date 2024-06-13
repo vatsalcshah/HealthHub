@@ -4,7 +4,7 @@
 
 ![Homepage](https://github.com/vatsalcshah/HealthHub/blob/main/Screenshots/Homepage.png)
 
-HealthHub is a full-stack healthcare management platform developed over a **7-day coding challenge**. It seamlessly connects patients, healthcare providers, pharmacists, and administrators, providing a user-friendly interface for various healthcare needs.
+HealthHub is a full-stack healthcare management platform developed over a **7-day coding challenge**. It seamlessly connects patients, healthcare providers, pharmacists, and administrators, providing a user-friendly interface for various healthcare needs. It is fully responsive and dynamic.
 
 ## Technologies Used
 <table border="1">
