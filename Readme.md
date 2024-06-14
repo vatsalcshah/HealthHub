@@ -6,7 +6,7 @@
 
 HealthHub is a full-stack healthcare management platform developed over a **7-day coding challenge**. It seamlessly connects patients, healthcare providers, pharmacists, and administrators, providing a user-friendly interface for various healthcare needs. It is fully responsive and dynamic.
 
-## Technologies Used
+## 💻 Technologies Used
 <table border="1">
   <tr>
     <th align="center">Frontend</th>
@@ -150,9 +150,7 @@ Use your terminal (e.g., VS Code's) to run the following commands:
            (Substitute  `http://example.com`  with your actual domain)
 
 
-## 🌐 Deployment
-
-### Deploying the React App
+## 🌐 React App Deployment
 
 1.  **Build for Production:**    
     ```
